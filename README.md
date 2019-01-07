@@ -6,3 +6,8 @@
 - 강의 자료를 참고하여 정리하였습니다.
 - 본인이 그리지 않은 사진은 출처를 함께 기재하였습니다.
 - 강의 자료는 첨부 하였으니 참고 바랍니다.
+
+# 참고 자료 정리
+- [개발자도 궁금한 IT인프라](http://m.podbbang.com/ch/10291)
+- [Amazon RDS](https://www.youtube.com/playlist?list=PLuHgQVnccGMBtHZf9Nt1SSlANoRi5cbOw)
+- 이외에도 "생활 코딩" 같은 사이트 참고!!
