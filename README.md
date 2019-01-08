@@ -21,7 +21,13 @@
 - 필요하면 언제든지 가져가서 사용해도 무방합니다.
 - 주의: 부분부분 오타가 있거나 파일이 잘 못된 경우가 있을 수 있으며, 내용이 이상할 수도 있음.
 
-## 참고 자료 정리 (SW Intensive Cloud Track)
+## 참고 자료 정리 (AWS 강의)
 - [개발자도 궁금한 IT인프라](http://m.podbbang.com/ch/10291)
 - [Amazon RDS](https://www.youtube.com/playlist?list=PLuHgQVnccGMBtHZf9Nt1SSlANoRi5cbOw)
 - 이외에도 "생활 코딩" 같은 사이트 참고!!
+
+## 참고 자료 정리 (IT 영어)
+- [1주차 활동 기사 모음]()
+- [2주차 활동 기사 모음]()
+- [3주차 활동 기사 모음]()
+- [4주차 활동 기사 모음]()
