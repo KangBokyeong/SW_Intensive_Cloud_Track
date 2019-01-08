@@ -27,7 +27,7 @@
 - 이외에도 "생활 코딩" 같은 사이트 참고!!
 
 ## 참고 자료 정리 (IT 영어)
-- [1주차 활동 기사 모음]()
+- [1주차 활동 기사 모음](https://github.com/KangBokyeong/SW_Intensive_Cloud_Track/blob/master/IT%EC%98%81%EC%96%B4/1%EC%A3%BC%EC%B0%A8/1%EC%A3%BC%EC%B0%A8_%EA%B8%B0%EC%82%AC_%EB%AA%A8%EC%9D%8C.md)
 - [2주차 활동 기사 모음]()
 - [3주차 활동 기사 모음]()
 - [4주차 활동 기사 모음]()
