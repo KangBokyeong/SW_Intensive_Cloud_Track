@@ -12,7 +12,9 @@
 - 본인이 그리지 않은 사진은 출처를 함께 기재하였습니다.
 - 강의 자료를 참고하여 정리하였습니다.
 - 강의 자료는 첨부 하였으니 참고 바랍니다.
-
+### 강의 자료
+- [AWS Academy Cloud Computing Architecture (CCA)](https://github.com/KangBokyeong/SW_Intensive_Cloud_Track/tree/master/AWS%EA%B0%95%EC%9D%98/Lecture%20Notes/AWS%20Academy%20Cloud%20Computing%20Architecture%20(CCA))
+- []()
 ## IT영어
 - 오전에 듣는 IT 영어에 관해서도 정리하였습니다.
 - 단어 정리는 본인 기준으로 정리한 것이며, 기사는 각 주차별로 자료 올려 놓았으니 참고 바랍니다.
