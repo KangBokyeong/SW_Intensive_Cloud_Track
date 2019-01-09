@@ -13,11 +13,19 @@
 - 강의 자료를 참고하여 정리하였습니다.
 - 강의 자료는 첨부 하였으니 참고 바랍니다.
 ### 강의 자료
+- [Academy Cloud Foundations (ACF)](https://github.com/KangBokyeong/SW_Intensive_Cloud_Track/tree/master/AWS%EA%B0%95%EC%9D%98/Lecture%20Notes/Academy%20Cloud%20Foundations%20(ACF))
 - [AWS Academy Cloud Computing Architecture (CCA)](https://github.com/KangBokyeong/SW_Intensive_Cloud_Track/tree/master/AWS%EA%B0%95%EC%9D%98/Lecture%20Notes/AWS%20Academy%20Cloud%20Computing%20Architecture%20(CCA))
-- []()
+### 수업내용 자체 정리
+- [수업내용 자체정리](https://github.com/KangBokyeong/SW_Intensive_Cloud_Track/tree/master/AWS%EA%B0%95%EC%9D%98/%EC%88%98%EC%97%85%EB%82%B4%EC%9A%A9%20%EC%9E%90%EC%B2%B4%EC%A0%95%EB%A6%AC)
+
 ## IT영어
 - 오전에 듣는 IT 영어에 관해서도 정리하였습니다.
 - 단어 정리는 본인 기준으로 정리한 것이며, 기사는 각 주차별로 자료 올려 놓았으니 참고 바랍니다.
+### 주차 별
+- [1주차](https://github.com/KangBokyeong/SW_Intensive_Cloud_Track/tree/master/IT%EC%98%81%EC%96%B4/1%EC%A3%BC%EC%B0%A8)
+- [2주차](https://github.com/KangBokyeong/SW_Intensive_Cloud_Track/tree/master/IT%EC%98%81%EC%96%B4/2%EC%A3%BC%EC%B0%A8)
+- [3주차](https://github.com/KangBokyeong/SW_Intensive_Cloud_Track/tree/master/IT%EC%98%81%EC%96%B4/3%EC%A3%BC%EC%B0%A8)
+- [4주차](https://github.com/KangBokyeong/SW_Intensive_Cloud_Track/tree/master/IT%EC%98%81%EC%96%B4/4%EC%A3%BC%EC%B0%A8)
 
 ## 여기에 있는 자료들에 관하여
 - 필요하면 언제든지 가져가서 사용해도 무방합니다.
