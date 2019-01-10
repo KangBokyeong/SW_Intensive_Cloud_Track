@@ -27,10 +27,6 @@
 - [3주차](https://github.com/KangBokyeong/SW_Intensive_Cloud_Track/tree/master/IT%EC%98%81%EC%96%B4/3%EC%A3%BC%EC%B0%A8)
 - [4주차](https://github.com/KangBokyeong/SW_Intensive_Cloud_Track/tree/master/IT%EC%98%81%EC%96%B4/4%EC%A3%BC%EC%B0%A8)
 
-## 여기에 있는 자료들에 관하여
-- 필요하면 언제든지 가져가서 사용해도 무방합니다.
-- 주의: 부분부분 오타가 있거나 파일이 잘 못된 경우가 있을 수 있으며, 내용이 이상할 수도 있음.
-
 ## 참고 자료 정리
 ### AWS 강의
 - [개발자도 궁금한 IT인프라](http://m.podbbang.com/ch/10291)
@@ -42,3 +38,7 @@
 - [2주차 활동 기사 모음](https://github.com/KangBokyeong/SW_Intensive_Cloud_Track/blob/master/IT%EC%98%81%EC%96%B4/2%EC%A3%BC%EC%B0%A8/2%EC%A3%BC%EC%B0%A8_%EA%B8%B0%EC%82%AC_%EB%AA%A8%EC%9D%8C.md)
 - [3주차 활동 기사 모음](https://github.com/KangBokyeong/SW_Intensive_Cloud_Track/blob/master/IT%EC%98%81%EC%96%B4/3%EC%A3%BC%EC%B0%A8/3%EC%A3%BC%EC%B0%A8_%EA%B8%B0%EC%82%AC_%EB%AA%A8%EC%9D%8C.md)
 - [4주차 활동 기사 모음]()
+
+## 여기에 있는 자료들에 관하여
+- 필요하면 언제든지 가져가서 사용해도 무방합니다.
+- 주의: 부분부분 오타가 있거나 파일이 잘 못된 경우가 있을 수 있으며, 내용이 이상할 수도 있음.
