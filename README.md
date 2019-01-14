@@ -37,7 +37,7 @@
 - [1주차 활동 기사 모음](https://github.com/KangBokyeong/SW_Intensive_Cloud_Track/blob/master/IT%EC%98%81%EC%96%B4/1%EC%A3%BC%EC%B0%A8/1%EC%A3%BC%EC%B0%A8_%EA%B8%B0%EC%82%AC_%EB%AA%A8%EC%9D%8C.md)
 - [2주차 활동 기사 모음](https://github.com/KangBokyeong/SW_Intensive_Cloud_Track/blob/master/IT%EC%98%81%EC%96%B4/2%EC%A3%BC%EC%B0%A8/2%EC%A3%BC%EC%B0%A8_%EA%B8%B0%EC%82%AC_%EB%AA%A8%EC%9D%8C.md)
 - [3주차 활동 기사 모음](https://github.com/KangBokyeong/SW_Intensive_Cloud_Track/blob/master/IT%EC%98%81%EC%96%B4/3%EC%A3%BC%EC%B0%A8/3%EC%A3%BC%EC%B0%A8_%EA%B8%B0%EC%82%AC_%EB%AA%A8%EC%9D%8C.md)
-- [4주차 활동 기사 모음]()
+- [4주차 활동 기사 모음](https://github.com/KangBokyeong/SW_Intensive_Cloud_Track/blob/master/IT%EC%98%81%EC%96%B4/4%EC%A3%BC%EC%B0%A8/4%EC%A3%BC%EC%B0%A8%20%ED%99%9C%EB%8F%99%20%EA%B8%B0%EC%82%AC%20%EB%AA%A8%EC%9D%8C.md)
 
 ## 여기에 있는 자료들에 관하여
 - 필요하면 언제든지 가져가서 사용해도 무방합니다.
