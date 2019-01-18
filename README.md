@@ -16,7 +16,8 @@
 - [Academy Cloud Foundations (ACF)](https://github.com/KangBokyeong/SW_Intensive_Cloud_Track/tree/master/AWS%EA%B0%95%EC%9D%98/Lecture%20Notes/Academy%20Cloud%20Foundations%20(ACF))
 - [AWS Academy Cloud Computing Architecture (CCA)](https://github.com/KangBokyeong/SW_Intensive_Cloud_Track/tree/master/AWS%EA%B0%95%EC%9D%98/Lecture%20Notes/AWS%20Academy%20Cloud%20Computing%20Architecture%20(CCA))
 ### 수업내용 자체 정리
-- [수업내용 자체정리](https://github.com/KangBokyeong/SW_Intensive_Cloud_Track/tree/master/AWS%EA%B0%95%EC%9D%98/%EC%88%98%EC%97%85%EB%82%B4%EC%9A%A9%20%EC%9E%90%EC%B2%B4%EC%A0%95%EB%A6%AC)
+- [수업내용 자체 정리](https://github.com/KangBokyeong/SW_Intensive_Cloud_Track/tree/master/AWS%EA%B0%95%EC%9D%98/%EC%88%98%EC%97%85%EB%82%B4%EC%9A%A9%20%EC%9E%90%EC%B2%B4%EC%A0%95%EB%A6%AC)
+- 자체 정리 중 [PPT로 그린 자료](https://github.com/KangBokyeong/SW_Intensive_Cloud_Track/blob/master/AWS%EA%B0%95%EC%9D%98/%EC%88%98%EC%97%85%EB%82%B4%EC%9A%A9%20%EC%9E%90%EC%B2%B4%EC%A0%95%EB%A6%AC/aws%20%EA%B0%95%EC%9D%98%20%EC%9E%90%EB%A3%8C%20%EA%B7%B8%EB%A6%BC%20%EC%A0%95%EB%A6%AC.pptx)
 
 ## IT 영어
 - 오전에 듣는 IT 영어에 관해서도 정리하였습니다.
