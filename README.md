@@ -31,7 +31,7 @@
 ### AWS 강의
 - [개발자도 궁금한 IT인프라](http://m.podbbang.com/ch/10291)
 - [Amazon RDS](https://www.youtube.com/playlist?list=PLuHgQVnccGMBtHZf9Nt1SSlANoRi5cbOw)
-- 이외에도 "생활 코딩" 같은 사이트 참고!!
+- 이외에도 "[생활 코딩](https://opentutorials.org/course/1)" 같은 사이트 참고!!
 
 ### IT 영어
 - [1주차 활동 기사 모음](https://github.com/KangBokyeong/SW_Intensive_Cloud_Track/blob/master/IT%EC%98%81%EC%96%B4/1%EC%A3%BC%EC%B0%A8/1%EC%A3%BC%EC%B0%A8_%EA%B8%B0%EC%82%AC_%EB%AA%A8%EC%9D%8C.md)
