@@ -24,7 +24,7 @@
 - 단어 정리는 본인 기준으로 정리한 것이며, 기사는 각 주차별로 자료 올려 놓았으니 참고 바랍니다.
 ### 주차 별
 - 1주차([바로가기](https://github.com/KangBokyeong/SW_Intensive_Cloud_Track/tree/master/IT%EC%98%81%EC%96%B4/1%EC%A3%BC%EC%B0%A8))
-- 2주차([](https://github.com/KangBokyeong/SW_Intensive_Cloud_Track/tree/master/IT%EC%98%81%EC%96%B4/2%EC%A3%BC%EC%B0%A8))
+- 2주차([바로가기](https://github.com/KangBokyeong/SW_Intensive_Cloud_Track/tree/master/IT%EC%98%81%EC%96%B4/2%EC%A3%BC%EC%B0%A8))
 - 3주차([바로가기](https://github.com/KangBokyeong/SW_Intensive_Cloud_Track/tree/master/IT%EC%98%81%EC%96%B4/3%EC%A3%BC%EC%B0%A8))
 - 4주차([바로가기](https://github.com/KangBokyeong/SW_Intensive_Cloud_Track/tree/master/IT%EC%98%81%EC%96%B4/4%EC%A3%BC%EC%B0%A8))
 
